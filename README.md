@@ -1,57 +1,15 @@
 # TEM Daily
-
-Startup enthusiasts, we provide you with everything you need to know to launch your own startup.
+Find out everything about startups, including tips for startup success.
 
 ## About Us
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+We are a group of startup enthusiasts, with diverse experience in venture capital, IT and marketing.
 
 ### Love What We Do? 
-```json
-   // code for coloring
+Drop us a line! BLUE HEART (&#x1F499;)
 
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+#### Here are the ways to contact us
+```Email: Hello@temdaily.com
+Contact: +65 9025 8050
 
 ## Deployment
 
