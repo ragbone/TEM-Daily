@@ -1,8 +1,10 @@
 # TEM Daily
-Find out everything about startups, including tips for startup success.
+** Find out everything about startups, including tips for startup success.**
 
 # About Us
 We are a group of startup enthusiasts, with diverse experience in venture capital, IT and marketing.
+
+Require "About Us"
 
 # Love What We Do? 
 Drop us a line, we would love to hear from you &#x1F499;
