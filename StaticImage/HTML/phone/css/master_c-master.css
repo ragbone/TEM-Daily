@@ -1,0 +1,246 @@
+#u12734
+{
+	-pie-box-shadow: 2px 1px 4px #CCCCCC;
+	box-shadow: 2px 1px 4px rgba(0,0,0,0.2);
+	background-color: #FFFFFF;
+}
+
+#accordionu12737
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u12762-3
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 14px;
+	color: #FFFFFF;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u12738,#u12762-3:active
+{
+	background-color: transparent;
+}
+
+#u12762-3.AccordionPanelTabOpen
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u12739
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #999999;
+	background-color: rgba(0,0,0,0.4);
+	-pie-background: rgba(0,0,0,0.4);
+}
+
+#u12741-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	color: #FFFFFF;
+	font-family: telex, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u12741-4:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #365667;
+}
+
+#u12741-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u12754-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	color: #FFFFFF;
+	font-family: telex, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u12754-4:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #365667;
+}
+
+#u12754-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u12756-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	color: #FFFFFF;
+	font-family: telex, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u12756-4:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #365667;
+}
+
+#u12756-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u12740-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	color: #FFFFFF;
+	font-family: telex, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u12740-4:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #365667;
+}
+
+#u12740-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u12755-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	color: #FFFFFF;
+	font-family: telex, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u12755-4:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #365667;
+}
+
+#u12755-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u12761-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	color: #FFFFFF;
+	font-family: telex, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u12761-4:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #365667;
+}
+
+#u12741-4.MuseLinkActive,#u12754-4.MuseLinkActive,#u12756-4.MuseLinkActive,#u12740-4.MuseLinkActive,#u12755-4.MuseLinkActive,#u12761-4.MuseLinkActive
+{
+	border-color: #000000;
+	background-color: #365667;
+}
+
+#u12761-4:hover p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+.AccordionPanelTab /* accordion */
+{
+	cursor: pointer;
+}
+
+#u12733
+{
+	background: transparent url("../../images/spiegelprofile_yn17470_heesenyachts-copy.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u12763-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 20px;
+	line-height: 24px;
+	color: #365667;
+	font-family: telex, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u12764,#u12735
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u13350
+{
+	background-color: #365667;
+}
+
+#u13351-6
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 13px;
+	line-height: 16px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+

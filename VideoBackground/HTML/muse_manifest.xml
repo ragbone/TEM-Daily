@@ -1,0 +1,460 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="snd.website" resolutions="1x,2x" timestamp="1436282005531">
+  <folder name="css">
+    <file name="site_global.css" crc="157336545"/>
+    <file name="master_a-master.css" crc="365754983" ref="contact:index:rent-now:about:destinations:services"/>
+    <file name="master_g-master.css" crc="4240601916" ref="small-boats:small2:small1:small3"/>
+    <file name="master_c-master.css" crc="3981818281" ref="big3:big2:big1:big-yachts"/>
+    <file name="master_b-master.css" crc="4273877038" ref="lux3:luxury-yachts:lux2:lux1"/>
+    <file name="contact.css" crc="4081601638" ref="contact"/>
+    <file name="big3.css" crc="3870064684" ref="big3"/>
+    <file name="big2.css" crc="121896758" ref="big2"/>
+    <file name="big1.css" crc="4006334811" ref="big1"/>
+    <file name="index.css" crc="79271742" ref="index"/>
+    <file name="lux3.css" crc="3884866586" ref="lux3"/>
+    <file name="luxury-yachts.css" crc="438303363" ref="luxury-yachts"/>
+    <file name="lux2.css" crc="431736255" ref="lux2"/>
+    <file name="rent-now.css" crc="384375045" ref="rent-now"/>
+    <file name="big-yachts.css" crc="4090268909" ref="big-yachts"/>
+    <file name="small-boats.css" crc="369733433" ref="small-boats"/>
+    <file name="small2.css" crc="115123851" ref="small2"/>
+    <file name="about.css" crc="286298486" ref="about"/>
+    <file name="small1.css" crc="4053613085" ref="small1"/>
+    <file name="destinations.css" crc="4175992870" ref="destinations"/>
+    <file name="services.css" crc="343631350" ref="services"/>
+    <file name="lux1.css" crc="3988965800" ref="lux1"/>
+    <file name="small3.css" crc="360508778" ref="small3"/>
+  </folder>
+  <folder name="assets">
+    <file name="6903754-free-yacht-wallpaper.jpg" crc="148046514" seo="true" mt="1434994252000"/>
+    <file name="small.jpg" crc="141010647" seo="true" mt="1435583708000"/>
+    <file name="heesens-fast-displacement-65m-yacht.jpg" crc="43970582" seo="true" mt="1434993280000"/>
+    <file name="smallph.png" crc="376931676" seo="true" mt="1436185504000"/>
+    <file name="smallph3.png" crc="4230459708" seo="true" mt="1436185806000"/>
+    <file name="smallph2.png" crc="518142197" seo="true" mt="1436185773000"/>
+    <file name="video1.mp4" crc="94991904" seo="true" mt="1434997295000"/>
+    <file name="video2.webm" crc="200225833" seo="true" mt="1434998111000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>rent-now:phone>luxury-yachts:phone>lux1:phone>lux2:phone>lux3:phone>small-boats:phone>small1:phone>small2:phone>small3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>about:phone>destinations:phone>services:phone>contact:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:index:rent-now:luxury-yachts:small-boats:big-yachts:about:destinations:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>rent-now:phone>luxury-yachts:phone>lux1:phone>lux2:phone>lux3:phone>small-boats:phone>small1:phone>small2:phone>small3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>about:phone>destinations:phone>services:phone>contact:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:index:rent-now:luxury-yachts:small-boats:big-yachts:about:destinations:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>index:phone>luxury-yachts:phone>lux1:phone>lux2:phone>lux3:phone>small-boats:phone>small1:phone>small2:phone>small3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>about:phone>services:phone>contact:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:index:luxury-yachts:small-boats:big-yachts:about:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>rent-now:phone>luxury-yachts:phone>lux1:phone>lux2:phone>lux3:phone>small-boats:phone>small1:phone>small2:phone>small3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>about:phone>destinations:phone>services:phone>contact:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:index:rent-now:luxury-yachts:small-boats:big-yachts:about:destinations:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>rent-now:phone>luxury-yachts:phone>lux1:phone>lux2:phone>lux3:phone>small-boats:phone>small1:phone>small2:phone>small3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>about:phone>services:phone>contact:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:index:rent-now:luxury-yachts:small-boats:big-yachts:about:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>index:phone>rent-now:phone>luxury-yachts:phone>lux1:phone>lux2:phone>lux3:phone>small-boats:phone>small1:phone>small2:phone>small3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>about:phone>destinations:phone>services:phone>contact:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:index:about:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="phone>index:phone>rent-now:phone>luxury-yachts:phone>lux1:phone>lux2:phone>lux3:phone>small-boats:phone>small1:phone>small2:phone>small3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>about:phone>destinations:phone>services:phone>contact:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="jquery.scrolleffects.js" crc="3860644955" ref="phone>index:phone>rent-now:phone>luxury-yachts:phone>lux1:phone>lux2:phone>lux3:phone>small-boats:phone>small1:phone>small2:phone>small3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>about:phone>destinations:phone>services:phone>contact:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:index:about:services:contact"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="phone>index:phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:phone>about:phone>services:phone>contact:index:about:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>index:phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:phone>about:phone>services:phone>contact:index:about:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="touchswipe.js" crc="4038331989" ref="phone>index:phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:phone>about:phone>services:phone>contact:index:about:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="form_check.php" crc="277267350" ref="phone>index:phone>contact:index:contact"/>
+    <file name="form_throttle.php" crc="3908387251" ref="phone>index:phone>contact:index:contact"/>
+    <file name="form_process.php" crc="24249335" ref="phone>index:phone>contact:index:contact"/>
+    <file name="form-u12563.php" crc="368254252" ref="phone>index"/>
+    <file name="form-u12827.php" crc="206548026" ref="phone>contact"/>
+    <file name="museredirect.js" crc="40941066" ref="index:rent-now:luxury-yachts:small-boats:big-yachts:about:destinations:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="form-u1286.php" crc="3946147002" ref="index"/>
+    <file name="form-u2190.php" crc="4230483979" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="4215446706" ref="phone>index"/>
+    <file name="corelite_marine2.jpg" crc="433295697" ref="phone>index"/>
+    <file name="logo.png" crc="458496832" seo="true" ref="phone>index:phone>rent-now:phone>luxury-yachts:phone>lux1:phone>lux2:phone>lux3:phone>small-boats:phone>small1:phone>small2:phone>small3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>about:phone>destinations:phone>services:phone>contact:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:index:rent-now:luxury-yachts:small-boats:big-yachts:about:destinations:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="logo_2x.png" crc="502852667" seo="true" ref="phone>index:phone>rent-now:phone>luxury-yachts:phone>lux1:phone>lux2:phone>lux3:phone>small-boats:phone>small1:phone>small2:phone>small3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>about:phone>destinations:phone>services:phone>contact:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:index:rent-now:luxury-yachts:small-boats:big-yachts:about:destinations:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="menulogophonewhite1.png" crc="181176158" seo="true" ref="phone>index:phone>rent-now:phone>luxury-yachts:phone>lux1:phone>lux2:phone>lux3:phone>small-boats:phone>small1:phone>small2:phone>small3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>about:phone>destinations:phone>services:phone>contact:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3"/>
+    <file name="marine-1-u12339-fr.png" crc="267044455" ref="phone>index:index"/>
+    <file name="11358_130_sportyacht-u12363-fr.jpg" crc="4014761261" ref="phone>index:phone>luxury-yachts:index:luxury-yachts"/>
+    <file name="11358_130_sportyacht-u12363-fr_2x.jpg" crc="4237047713" ref="phone>index:phone>luxury-yachts:index:luxury-yachts"/>
+    <file name="luxury yacht princess iolanthe - image courtesy of mondo marine-u12378-fr.jpg" crc="316868192" ref="phone>index:phone>luxury-yachts:phone>big-yachts:index:luxury-yachts:big-yachts"/>
+    <file name="luxury yacht princess iolanthe - image courtesy of mondo marine-u12378-fr_2x.jpg" crc="3764159948" ref="phone>index:phone>luxury-yachts:phone>big-yachts:index:luxury-yachts:big-yachts"/>
+    <file name="steel-mega-yacht-custom-20404-4784243.jpg" crc="230519299" ref="phone>index:phone>luxury-yachts:phone>bigpage2:index:luxury-yachts:big-yachts"/>
+    <file name="steel-mega-yacht-custom-20404-4784243_2x.jpg" crc="4249304265" ref="phone>index:phone>luxury-yachts:phone>bigpage2:index:luxury-yachts:big-yachts"/>
+    <file name="logo28x29.png" crc="290451261" seo="true" ref="phone>index"/>
+    <file name="logo28x29_2x.png" crc="334179444" seo="true" ref="phone>index"/>
+    <file name="noun_64254_cc.png" crc="82239403" seo="true" ref="phone>index:index"/>
+    <file name="noun_64254_cc_2x.png" crc="479939339" seo="true" ref="phone>index:index"/>
+    <file name="noun_52877_cc28x28.png" crc="3867447972" seo="true" ref="phone>index"/>
+    <file name="noun_52877_cc_2x.png" crc="141688432" seo="true" ref="phone>index:index"/>
+    <file name="noun_52877_cc.png" crc="3867447972" seo="true" ref="phone>index:index"/>
+    <file name="2.jpg" crc="3967358877" ref="phone>index:phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:index:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="p7.jpg" crc="33801843" ref="phone>index:phone>about:index:about"/>
+    <file name="test225x25.jpg" crc="80547795" seo="true" ref="phone>index"/>
+    <file name="test225x25_2x.jpg" crc="3904546299" seo="true" ref="phone>index"/>
+    <file name="test325x26.jpg" crc="378373802" seo="true" ref="phone>index"/>
+    <file name="test325x26_2x.jpg" crc="200512188" seo="true" ref="phone>index"/>
+    <file name="test425x25.jpg" crc="33046116" seo="true" ref="phone>index"/>
+    <file name="test425x25_2x.jpg" crc="391973650" seo="true" ref="phone>index"/>
+    <file name="p4.jpg" crc="4153859796" ref="phone>index:phone>about:index:about"/>
+    <file name="p3.jpg" crc="418637655" ref="phone>index:index"/>
+    <file name="p3_2x.jpg" crc="3774515917" ref="phone>index:index"/>
+    <file name="p1.jpg" crc="395137409" ref="phone>index:index"/>
+    <file name="p1_2x.jpg" crc="16574712" ref="phone>index:index"/>
+    <file name="luxury_water_villas_bungalows_over_perfect_blue_lagoon_ocean_on_polynesian_paradise_island_moorea-1504285303x203.jpg" crc="4086979647" seo="true" ref="phone>index"/>
+    <file name="luxury_water_villas_bungalows_over_perfect_blue_lagoon_ocean_on_polynesian_paradise_island_moorea-1504285303x203_2x.jpg" crc="4237757072" seo="true" ref="phone>index"/>
+    <file name="paradise-beach-desktop-hd-wallpapers-crop-u12531.jpg" crc="3837674907" ref="phone>index"/>
+    <file name="paradise-beach-desktop-hd-wallpapers-crop-u12531_2x.jpg" crc="4201851411" ref="phone>index"/>
+    <file name="big_sunseeker-preda-8295412753.jpg" crc="4158484177" ref="phone>index:phone>about:phone>services:index:about:services"/>
+    <file name="u12582-17.png" crc="213187619" ref="phone>index"/>
+    <file name="u12582-17-r.png" crc="375147587" ref="phone>index"/>
+    <file name="u12582-17-m.png" crc="375147587" ref="phone>index"/>
+    <file name="u12582-17-fs.png" crc="3998082846" ref="phone>index"/>
+    <file name="u12582-17_2x.png" crc="3996747330" ref="phone>index"/>
+    <file name="u12582-17-r_2x.png" crc="4170127072" ref="phone>index"/>
+    <file name="u12582-17-m_2x.png" crc="4170127072" ref="phone>index"/>
+    <file name="u12582-17-fs_2x.png" crc="394548070" ref="phone>index"/>
+    <file name="test2.jpg" crc="21693368" seo="true" ref="phone>index:phone>contact:index:contact"/>
+    <file name="test2_2x.jpg" crc="359888149" seo="true" ref="phone>index:phone>contact:index:contact"/>
+    <file name="test3.jpg" crc="239834116" seo="true" ref="phone>index:phone>contact:index:contact"/>
+    <file name="test3_2x.jpg" crc="30769103" seo="true" ref="phone>index:phone>contact:index:contact"/>
+    <file name="test4.jpg" crc="63773105" seo="true" ref="phone>index:phone>contact:index:contact"/>
+    <file name="test4_2x.jpg" crc="68970070" seo="true" ref="phone>index:phone>contact:index:contact"/>
+    <file name="up.jpg" crc="178466872" seo="true" ref="phone>index:phone>rent-now:phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:phone>about:phone>destinations:phone>services:phone>contact:phone>luxpage3:index:rent-now:luxury-yachts:small-boats:big-yachts:about:destinations:services:contact:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="b-master-favicon.ico" crc="4215446706" ref="phone>luxury-yachts"/>
+    <file name="369626.jpg" crc="161782667" ref="phone>luxury-yachts:luxury-yachts"/>
+    <file name="45m bilgin yacht tatiana - exterior desinged by joachim kinder-u13409-fr.jpg" crc="410444164" ref="phone>luxury-yachts:phone>big-yachts:luxury-yachts:big-yachts"/>
+    <file name="45m bilgin yacht tatiana - exterior desinged by joachim kinder-u13409-fr_2x.jpg" crc="118357538" ref="phone>luxury-yachts:phone>big-yachts:luxury-yachts:big-yachts"/>
+    <file name="232228.jpg" crc="524086245" ref="phone>luxury-yachts:luxury-yachts"/>
+    <file name="232228_2x.jpg" crc="464159874" ref="phone>luxury-yachts:luxury-yachts"/>
+    <file name="absolute_yacht_70sty_01.jpg" crc="328969320" ref="phone>luxury-yachts:phone>small-boats:luxury-yachts:small-boats"/>
+    <file name="absolute_yacht_70sty_01_2x.jpg" crc="276358637" ref="phone>luxury-yachts:phone>small-boats:luxury-yachts:small-boats"/>
+    <file name="arrow-rightblack.png" crc="257123196" seo="true" ref="phone>luxury-yachts:phone>small-boats:phone>big-yachts:phone>luxnexpage2:phone>bigpage2"/>
+    <file name="arrow-rightblack_2x.png" crc="25627866" seo="true" ref="phone>luxury-yachts:phone>small-boats:phone>big-yachts:phone>luxnexpage2:phone>bigpage2"/>
+    <file name="content1330x483.png" crc="424064651" seo="true" ref="phone>lux1"/>
+    <file name="noun_12025_cc.png" crc="449806892" seo="true" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_12025_cc_2x.png" crc="3869890362" seo="true" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="10-yacht-control-room.jpg" crc="167857655" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="32-yacht-control-desk.jpg" crc="76132117" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="architecture-and-interiors_089.jpg" crc="4081087472" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="456c78dcc6384e9c2316a86077b187f1.jpg" crc="178336176" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="tumblr_mfavb4fhxs1rahlr4o1_1280.jpg" crc="71401863" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="luxury-yacht-charter-caribbean-mediterranean-sealyon-51.jpg" crc="3893957995" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="yacht-interior-art-stylist-nightenjoy-luxyry-chairs-sofa-hd-wallpaper.jpg" crc="42593692" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="yacht-interior-18238.jpg" crc="3965217852" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="2-u14586-fr.jpg" crc="4234343174" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="2-u14586-fr_2x.jpg" crc="4014559673" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="10-yacht-control-room-u14570-fr.jpg" crc="3947802697" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="10-yacht-control-room-u14570-fr_2x.jpg" crc="414886237" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="32-yacht-control-desk-u14572-fr.jpg" crc="3870108787" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="32-yacht-control-desk-u14572-fr_2x.jpg" crc="455295006" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="architecture-and-interiors_089-u14584-fr.jpg" crc="3914800145" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="architecture-and-interiors_089-u14584-fr_2x.jpg" crc="3830246356" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="456c78dcc6384e9c2316a86077b187f1-u14574-fr.jpg" crc="3771672693" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="456c78dcc6384e9c2316a86077b187f1-u14574-fr_2x.jpg" crc="403874562" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="tumblr_mfavb4fhxs1rahlr4o1_1280-u14580-fr.jpg" crc="234730443" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="tumblr_mfavb4fhxs1rahlr4o1_1280-u14580-fr_2x.jpg" crc="533883151" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="luxury-yacht-charter-caribbean-mediterranean-sealyon-51-u14578-fr.jpg" crc="63293392" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="luxury-yacht-charter-caribbean-mediterranean-sealyon-51-u14578-fr_2x.jpg" crc="3983319998" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="yacht-interior-art-stylist-nightenjoy-luxyry-chairs-sofa-hd-wallpaper-u14576-fr.jpg" crc="3919966688" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="yacht-interior-art-stylist-nightenjoy-luxyry-chairs-sofa-hd-wallpaper-u14576-fr_2x.jpg" crc="114248750" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="yacht-interior-18238-u14582-fr.jpg" crc="3897636002" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="yacht-interior-18238-u14582-fr_2x.jpg" crc="443588760" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="33608-600-u14567-fr.png" crc="3819916463" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="33608-600-u14567-fr_2x.png" crc="318039709" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="fitness-bathroom-and-sauna-yacht-joyme-by-phillip-zepter-yachts-with-interior-by-marijana-radovic-of-standby.jpg" crc="472144814" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="motor yacht go - master bath.jpg" crc="177012674" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="motor-yacht-noor-master_bathroom_low.jpg" crc="3789348439" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="pred130_0222.jpg" crc="4065339630" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="motor-yacht-rm-elegant-master-diamond-bathroom.jpg" crc="97982146" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="yacht-zahraa-admiral-tecnomar-owners-bath.jpg" crc="352479652" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="fitness-bathroom-and-sauna-yacht-joyme-by-phillip-zepter-yachts-with-interior-by-marijana-radovic-of-standby-u14599-fr.jpg" crc="3770602823" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="fitness-bathroom-and-sauna-yacht-joyme-by-phillip-zepter-yachts-with-interior-by-marijana-radovic-of-standby-u14599-fr_2x.jpg" crc="469879672" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="motor yacht go - master bath-u14593-fr.jpg" crc="4062931720" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="motor yacht go - master bath-u14593-fr_2x.jpg" crc="189948344" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="motor-yacht-noor-master_bathroom_low-u14595-fr.jpg" crc="4052738866" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="motor-yacht-noor-master_bathroom_low-u14595-fr_2x.jpg" crc="408184394" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="pred130_0222-u14601-fr.jpg" crc="531793197" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="pred130_0222-u14601-fr_2x.jpg" crc="4213050988" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="motor-yacht-rm-elegant-master-diamond-bathroom-u14597-fr.jpg" crc="451514994" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="motor-yacht-rm-elegant-master-diamond-bathroom-u14597-fr_2x.jpg" crc="3891147031" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="yacht-zahraa-admiral-tecnomar-owners-bath-u14603-fr.jpg" crc="4147898289" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="yacht-zahraa-admiral-tecnomar-owners-bath-u14603-fr_2x.jpg" crc="143791710" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="cruceros2.jpg" crc="3903883584" ref="phone>lux1:phone>lux2:phone>lux3:lux1:lux2:lux3"/>
+    <file name="ec145-mercedes-benz-style-helicopter.jpg" crc="339221000" ref="phone>lux1:phone>lux2:phone>lux3:lux1:lux2:lux3"/>
+    <file name="pic-29.jpg" crc="4282583682" ref="phone>lux1:phone>lux2:phone>lux3:phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:luxury-yachts:small-boats:big-yachts:lux1:lux2:lux3"/>
+    <file name="t033-minegames-helicopter.jpg" crc="3971330587" ref="phone>lux1:phone>lux2:phone>lux3:lux1:lux2:lux3"/>
+    <file name="stock-photo-silver-helicopter-on-the-deck-of-the-yacht-83140531.jpg" crc="3922820243" ref="phone>lux1:phone>lux2:phone>lux3:phone>luxnexpage2:phone>smallpage2:phone>bigpage2:luxury-yachts:small-boats:big-yachts:lux1:lux2:lux3"/>
+    <file name="83608715471794985394411c526087.jpg" crc="3775154223" ref="phone>lux1:phone>lux2:phone>lux3:lux1:lux2:lux3"/>
+    <file name="ec145-mercedes-benz-style-helicopter-11.jpg" crc="4118668160" ref="phone>lux1:phone>lux2:phone>lux3:lux1:lux2:lux3"/>
+    <file name="3039.jpg" crc="483945046" ref="phone>lux1:phone>lux2:phone>lux3:lux1:lux2:lux3"/>
+    <file name="cruceros22.jpg" crc="102787677" ref="phone>lux1:phone>lux2:phone>lux3:phone>luxpage3:phone>bigpage3:luxury-yachts:big-yachts"/>
+    <file name="cruceros2_2x.jpg" crc="3903883584" ref="phone>lux1:phone>lux2:phone>lux3:phone>luxpage3:phone>bigpage3:luxury-yachts:big-yachts"/>
+    <file name="ec145-mercedes-benz-style-helicopter-u14473-fr.jpg" crc="97421218" ref="phone>lux1:phone>lux2:phone>lux3"/>
+    <file name="ec145-mercedes-benz-style-helicopter-u14473-fr_2x.jpg" crc="4141620561" ref="phone>lux1:phone>lux2:phone>lux3"/>
+    <file name="t033-minegames-helicopter-u14471-fr.jpg" crc="341399132" ref="phone>lux1:phone>lux2:phone>lux3"/>
+    <file name="t033-minegames-helicopter-u14471-fr_2x.jpg" crc="512834558" ref="phone>lux1:phone>lux2:phone>lux3"/>
+    <file name="83608715471794985394411c526087-u14467-fr.jpg" crc="3845266593" ref="phone>lux1:phone>lux2:phone>lux3"/>
+    <file name="83608715471794985394411c526087-u14467-fr_2x.jpg" crc="4248844504" ref="phone>lux1:phone>lux2:phone>lux3"/>
+    <file name="ec145-mercedes-benz-style-helicopter-11-u14463-fr.jpg" crc="471547619" ref="phone>lux1:phone>lux2:phone>lux3"/>
+    <file name="ec145-mercedes-benz-style-helicopter-11-u14463-fr_2x.jpg" crc="489572095" ref="phone>lux1:phone>lux2:phone>lux3"/>
+    <file name="3039-u14469-fr.jpg" crc="3812377974" ref="phone>lux1:phone>lux2:phone>lux3"/>
+    <file name="3039-u14469-fr_2x.jpg" crc="4137916596" ref="phone>lux1:phone>lux2:phone>lux3"/>
+    <file name="45m bilgin yacht tatiana - exterior desinged by joachim kinder.jpg" crc="3942154232" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="11358_130_sportyacht.jpg" crc="523351386" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="387202-yacht.jpg" crc="3824774235" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="hojmepage3f.jpg" crc="4195509861" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="6837755-yacht.jpg" crc="68268456" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="luxury yacht princess iolanthe - image courtesy of mondo marine.jpg" crc="294858176" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="sailing-wallpaper-hd-45988-47270-hd-wallpapers.jpg" crc="4125339842" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="shutterstock_90317938.jpg" crc="144719144" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="luxury-yacht-near-murphys-restaurant.jpg" crc="4203163649" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3:lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="45m bilgin yacht tatiana - exterior desinged by joachim kinder-u14485-fr.jpg" crc="264428945" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="45m bilgin yacht tatiana - exterior desinged by joachim kinder-u14485-fr_2x.jpg" crc="3985588439" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="11358_130_sportyacht-u14497-fr.jpg" crc="4209982212" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="11358_130_sportyacht-u14497-fr_2x.jpg" crc="187020106" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="387202-yacht-u14491-fr.jpg" crc="483842824" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="387202-yacht-u14491-fr_2x.jpg" crc="4104605891" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="hojmepage3f-u14495-fr.jpg" crc="3952295869" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="hojmepage3f-u14495-fr_2x.jpg" crc="237820312" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="6837755-yacht-u14501-fr.jpg" crc="513164855" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="6837755-yacht-u14501-fr_2x.jpg" crc="4041534448" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="luxury yacht princess iolanthe - image courtesy of mondo marine-u14487-fr.jpg" crc="3958341416" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="luxury yacht princess iolanthe - image courtesy of mondo marine-u14487-fr_2x.jpg" crc="359162493" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="sailing-wallpaper-hd-45988-47270-hd-wallpapers-u14489-fr.jpg" crc="370874298" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="sailing-wallpaper-hd-45988-47270-hd-wallpapers-u14489-fr_2x.jpg" crc="383154258" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="shutterstock_90317938-u14499-fr.jpg" crc="4062834381" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="shutterstock_90317938-u14499-fr_2x.jpg" crc="389145879" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="luxury-yacht-near-murphys-restaurant-u14493-fr.jpg" crc="4018384932" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="luxury-yacht-near-murphys-restaurant-u14493-fr_2x.jpg" crc="4117812144" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2824_cc-u14225-fr.png" crc="261356093" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2824_cc-u14225-fr_2x.png" crc="4231361792" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2824_cc11-u14225-r-fr.png" crc="4259150285" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2824_cc11-u14225-r-fr_2x.png" crc="516779242" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_19291_cc-u14221-fr.png" crc="199268247" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_19291_cc-u14221-fr_2x.png" crc="4183411346" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_19291_cc11-u14221-r-fr.png" crc="3932118626" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_19291_cc11-u14221-r-fr_2x.png" crc="98242359" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2174_cc-u14208-fr.png" crc="346364851" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2174_cc-u14208-fr_2x.png" crc="447417602" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2174_cc11-u14208-r-fr.png" crc="284716517" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2174_cc11-u14208-r-fr_2x.png" crc="328791994" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2775_cc-u14217-fr.png" crc="56395779" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2775_cc-u14217-fr_2x.png" crc="182723250" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2775_cc11-u14217-r-fr.png" crc="4049142863" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_2775_cc11-u14217-r-fr_2x.png" crc="4211765038" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_1609-u14214-fr.png" crc="155106151" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_1609-u14214-fr_2x.png" crc="253075018" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_160911-u14214-r-fr.png" crc="348138860" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="noun_160911-u14214-r-fr_2x.png" crc="184507213" ref="phone>lux1:phone>lux2:phone>lux3:phone>small1:phone>small2:phone>small3:phone>big1:phone>big2:phone>big3"/>
+    <file name="g-master-favicon.ico" crc="4215446706" ref="phone>small-boats"/>
+    <file name="6837758-yacht-wallpaper.jpg" crc="4024871321" ref="phone>small-boats:small-boats"/>
+    <file name="369626-u13688-fr.jpg" crc="479015075" ref="phone>small-boats:phone>big-yachts:phone>bigpage2:small-boats:big-yachts"/>
+    <file name="369626-u13688-fr_2x.jpg" crc="331385344" ref="phone>small-boats:phone>big-yachts:phone>bigpage2:small-boats:big-yachts"/>
+    <file name="387202-yacht-u13689-fr.jpg" crc="3818243778" ref="phone>small-boats:small-boats"/>
+    <file name="387202-yacht-u13689-fr_2x.jpg" crc="4090879591" ref="phone>small-boats:small-boats"/>
+    <file name="6773700-awesome-yacht-wallpaper.jpg" crc="4191164247" ref="phone>small-boats:small-boats"/>
+    <file name="6773700-awesome-yacht-wallpaper_2x.jpg" crc="4011213784" ref="phone>small-boats:small-boats"/>
+    <file name="luxury-yacht-near-murphys-restaurant-u13736-fr.jpg" crc="306718599" ref="phone>small-boats:phone>luxnexpage2:luxury-yachts:small-boats"/>
+    <file name="luxury-yacht-near-murphys-restaurant-u13736-fr_2x.jpg" crc="3959875594" ref="phone>small-boats:phone>luxnexpage2:luxury-yachts:small-boats"/>
+    <file name="shutterstock_90317938-u13737-fr.jpg" crc="4222687824" ref="phone>small-boats:small-boats"/>
+    <file name="shutterstock_90317938-u13737-fr_2x.jpg" crc="4081407689" ref="phone>small-boats:small-boats"/>
+    <file name="c-master-favicon.ico" crc="4215446706" ref="phone>big-yachts"/>
+    <file name="spiegelprofile_yn17470_heesenyachts-copy.jpg" crc="4120925260" ref="phone>big-yachts:big-yachts"/>
+    <file name="luxury-yachts.jpg" crc="85176688" ref="phone>big-yachts:big-yachts"/>
+    <file name="luxury-yachts_2x.jpg" crc="4018130572" ref="phone>big-yachts:big-yachts"/>
+    <file name="6946839-ferrari-599-gtb-fiorano-night-monaco-city-port-yacht-photo.jpg" crc="3944026311" ref="phone>big-yachts:big-yachts"/>
+    <file name="6946839-ferrari-599-gtb-fiorano-night-monaco-city-port-yacht-photo_2x.jpg" crc="478448531" ref="phone>big-yachts:big-yachts"/>
+    <file name="standard-super-yacht-displacement-hull-semi-custom-20404-4785773.jpg" crc="186418517" ref="phone>big-yachts:phone>luxnexpage2:luxury-yachts:big-yachts"/>
+    <file name="standard-super-yacht-displacement-hull-semi-custom-20404-4785773_2x.jpg" crc="295679051" ref="phone>big-yachts:phone>luxnexpage2:luxury-yachts:big-yachts"/>
+    <file name="viptransferamsterdam322x198.jpg" crc="276060729" seo="true" ref="phone>about"/>
+    <file name="viptransferamsterdam322x198_2x.jpg" crc="4192216742" seo="true" ref="phone>about"/>
+    <file name="p32.jpg" crc="3774515917" ref="phone>about:about"/>
+    <file name="p12.jpg" crc="16574712" ref="phone>about:about"/>
+    <file name="paradise-beach-desktop-hd-wallpapers-crop-u13122.jpg" crc="3837674907" ref="phone>destinations"/>
+    <file name="paradise-beach-desktop-hd-wallpapers-crop-u13122_2x.jpg" crc="4201851411" ref="phone>destinations"/>
+    <file name="marine-1-crop-u13133.jpg" crc="3922413686" ref="phone>destinations"/>
+    <file name="marine-1-crop-u13133_2x.jpg" crc="29396288" ref="phone>destinations"/>
+    <file name="holiday-crop-u13139.jpg" crc="25934344" ref="phone>destinations"/>
+    <file name="holiday-crop-u13139_2x.jpg" crc="73960774" ref="phone>destinations"/>
+    <file name="beach_2520226b-crop-u13147.jpg" crc="4203988050" ref="phone>destinations"/>
+    <file name="0358-crop-u13153.jpg" crc="4089784970" ref="phone>destinations"/>
+    <file name="u12833-17.png" crc="213187619" ref="phone>contact"/>
+    <file name="u12833-17-r.png" crc="375147587" ref="phone>contact"/>
+    <file name="u12833-17-m.png" crc="375147587" ref="phone>contact"/>
+    <file name="u12833-17-fs.png" crc="3998082846" ref="phone>contact"/>
+    <file name="u12833-17_2x.png" crc="3996747330" ref="phone>contact"/>
+    <file name="u12833-17-r_2x.png" crc="4170127072" ref="phone>contact"/>
+    <file name="u12833-17-m_2x.png" crc="4170127072" ref="phone>contact"/>
+    <file name="u12833-17-fs_2x.png" crc="394548070" ref="phone>contact"/>
+    <file name="6955636-yacht-harbour-at-night-u12870-fr.png" crc="3758969048" ref="phone>contact:contact"/>
+    <file name="a2084c46-860b-40ea-99ee-ec43624741bd.png" crc="3802369775" seo="true" ref="phone>contact:contact"/>
+    <file name="a2084c46-860b-40ea-99ee-ec43624741bd_2x.png" crc="4147777832" seo="true" ref="phone>contact:contact"/>
+    <file name="426_2.png" crc="376440282" seo="true" ref="phone>contact:contact"/>
+    <file name="426_2_2x.png" crc="3778994851" seo="true" ref="phone>contact:contact"/>
+    <file name="mapps.png" crc="4289172546" seo="true" ref="phone>contact:contact"/>
+    <file name="mapps_2x.png" crc="504182571" seo="true" ref="phone>contact:contact"/>
+    <file name="map.png" crc="380161583" ref="phone>contact:contact"/>
+    <file name="map_2x.png" crc="67170988" ref="phone>contact:contact"/>
+    <file name="corelite_marine2-u13508-fr.jpg" crc="3890423719" ref="phone>luxnexpage2:luxury-yachts"/>
+    <file name="corelite_marine2-u13508-fr_2x.jpg" crc="3778833246" ref="phone>luxnexpage2:luxury-yachts"/>
+    <file name="t033-minegames-helicopter-u13550-fr.jpg" crc="214970473" ref="phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:luxury-yachts:small-boats:big-yachts"/>
+    <file name="t033-minegames-helicopter-u13550-fr_2x.jpg" crc="4042748576" ref="phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3:luxury-yachts:small-boats:big-yachts"/>
+    <file name="arrow-leftblack.png" crc="61221365" seo="true" ref="phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3"/>
+    <file name="arrow-leftblack_2x.png" crc="4082340974" seo="true" ref="phone>luxnexpage2:phone>luxpage3:phone>smallpage2:phone>bigpage2:phone>bigpage3"/>
+    <file name="6903754-free-yacht-wallpaper.jpg" crc="8430521" ref="phone>smallpage2:small-boats"/>
+    <file name="6903754-free-yacht-wallpaper_2x.jpg" crc="4083661283" ref="phone>smallpage2:small-boats"/>
+    <file name="6837758-yacht-wallpaper-u13807-fr.jpg" crc="177375664" ref="phone>smallpage2:small-boats"/>
+    <file name="6837758-yacht-wallpaper-u13807-fr_2x.jpg" crc="3837448600" ref="phone>smallpage2:small-boats"/>
+    <file name="cruise-charter2.jpg" crc="329026394" ref="phone>smallpage2:small-boats"/>
+    <file name="cruise-charter2_2x.jpg" crc="22886327" ref="phone>smallpage2:small-boats"/>
+    <file name="what-retirement-can-bring-from-seeing-a-financial-advisor.jpg" crc="223387898" ref="phone>bigpage2:big-yachts"/>
+    <file name="what-retirement-can-bring-from-seeing-a-financial-advisor_2x.jpg" crc="489078691" ref="phone>bigpage2:big-yachts"/>
+    <file name="luxury_water_villas_bungalows_over_perfect_blue_lagoon_ocean_on_polynesian_paradise_island_moorea-1504285.jpg" crc="323214772" seo="true" ref="index:destinations"/>
+    <file name="luxury_water_villas_bungalows_over_perfect_blue_lagoon_ocean_on_polynesian_paradise_island_moorea-1504285_2x.jpg" crc="4043544011" seo="true" ref="index:destinations"/>
+    <file name="paradise-beach-desktop-hd-wallpapers-crop-u1110.jpg" crc="3832536242" ref="index"/>
+    <file name="paradise-beach-desktop-hd-wallpapers-crop-u1110_2x.jpg" crc="4166420716" ref="index"/>
+    <file name="arrow-left.png" crc="3884142620" ref="index:about:services"/>
+    <file name="arrow-right.png" crc="198185019" ref="index:about:services"/>
+    <file name="u1302-17.png" crc="213187619" ref="index"/>
+    <file name="u1302-17-r.png" crc="375147587" ref="index"/>
+    <file name="u1302-17-m.png" crc="375147587" ref="index"/>
+    <file name="u1302-17-fs.png" crc="3998082846" ref="index"/>
+    <file name="u1302-17_2x.png" crc="3996747330" ref="index"/>
+    <file name="u1302-17-r_2x.png" crc="4170127072" ref="index"/>
+    <file name="u1302-17-m_2x.png" crc="4170127072" ref="index"/>
+    <file name="u1302-17-fs_2x.png" crc="394548070" ref="index"/>
+    <file name="viptransferamsterdam.jpg" crc="3857015844" seo="true" ref="about"/>
+    <file name="viptransferamsterdam_2x.jpg" crc="4014439985" seo="true" ref="about"/>
+    <file name="paradise-beach-desktop-hd-wallpapers-crop-u2834.jpg" crc="3832536242" ref="destinations"/>
+    <file name="paradise-beach-desktop-hd-wallpapers-crop-u2834_2x.jpg" crc="4166420716" ref="destinations"/>
+    <file name="marine-1-crop-u2852.jpg" crc="3809919707" ref="destinations"/>
+    <file name="marine-1-crop-u2852_2x.jpg" crc="319267266" ref="destinations"/>
+    <file name="holiday-crop-u2854.jpg" crc="4156404277" ref="destinations"/>
+    <file name="holiday-crop-u2854_2x.jpg" crc="3957600895" ref="destinations"/>
+    <file name="beach_2520226b.jpg" crc="160600374" seo="true" ref="destinations"/>
+    <file name="0358-crop-u2874.jpg" crc="118873798" ref="destinations"/>
+    <file name="11358_130_sportyacht-u2702-fr.jpg" crc="415349027" ref="services"/>
+    <file name="11358_130_sportyacht-u2702-fr_2x.jpg" crc="35459543" ref="services"/>
+    <file name="absolute_yacht_70sty_01-u2756-fr.jpg" crc="259805108" ref="services"/>
+    <file name="absolute_yacht_70sty_01-u2756-fr_2x.jpg" crc="206093976" ref="services"/>
+    <file name="u2201-17.png" crc="213187619" ref="contact"/>
+    <file name="u2201-17-r.png" crc="375147587" ref="contact"/>
+    <file name="u2201-17-m.png" crc="375147587" ref="contact"/>
+    <file name="u2201-17-fs.png" crc="3998082846" ref="contact"/>
+    <file name="u2201-17_2x.png" crc="3996747330" ref="contact"/>
+    <file name="u2201-17-r_2x.png" crc="4170127072" ref="contact"/>
+    <file name="u2201-17-m_2x.png" crc="4170127072" ref="contact"/>
+    <file name="u2201-17-fs_2x.png" crc="394548070" ref="contact"/>
+    <file name="content1.png" crc="4031680093" seo="true" ref="lux1:lux2:lux3"/>
+    <file name="22.jpg" crc="324704764" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="2_2x.jpg" crc="3967358877" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="architecture-and-interiors_0892.jpg" crc="4253239374" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="architecture-and-interiors_089_2x.jpg" crc="4081087472" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="luxury-yacht-charter-caribbean-mediterranean-sealyon-512.jpg" crc="432464978" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="luxury-yacht-charter-caribbean-mediterranean-sealyon-51_2x.jpg" crc="3893957995" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="yacht-interior-art-stylist-nightenjoy-luxyry-chairs-sofa-hd-wallpaper-u4889-fr.jpg" crc="3972978119" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="yacht-interior-art-stylist-nightenjoy-luxyry-chairs-sofa-hd-wallpaper-u4889-fr_2x.jpg" crc="379147208" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="yacht-interior-182382.jpg" crc="4252994849" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="yacht-interior-18238_2x.jpg" crc="3965217852" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="fitness-bathroom-and-sauna-yacht-joyme-by-phillip-zepter-yachts-with-interior-by-marijana-radovic-of-standby2.jpg" crc="57443552" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="fitness-bathroom-and-sauna-yacht-joyme-by-phillip-zepter-yachts-with-interior-by-marijana-radovic-of-standby_2x.jpg" crc="472144814" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="motor-yacht-rm-elegant-master-diamond-bathroom2.jpg" crc="4212185805" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="motor-yacht-rm-elegant-master-diamond-bathroom_2x.jpg" crc="97982146" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="yacht-zahraa-admiral-tecnomar-owners-bath2.jpg" crc="125743404" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="yacht-zahraa-admiral-tecnomar-owners-bath_2x.jpg" crc="352479652" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="30392.jpg" crc="170048057" ref="lux1:lux2:lux3"/>
+    <file name="3039_2x.jpg" crc="483945046" ref="lux1:lux2:lux3"/>
+    <file name="11358_130_sportyacht-u4988-fr.jpg" crc="171045326" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="11358_130_sportyacht-u4988-fr_2x.jpg" crc="4005441905" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="387202-yacht-u4978-fr.jpg" crc="4244209600" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="387202-yacht-u4978-fr_2x.jpg" crc="3970220898" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="luxury yacht princess iolanthe - image courtesy of mondo marine2.jpg" crc="476019938" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="luxury yacht princess iolanthe - image courtesy of mondo marine_2x.jpg" crc="294858176" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="sailing-wallpaper-hd-45988-47270-hd-wallpapers-u4984-fr.jpg" crc="4067974826" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="sailing-wallpaper-hd-45988-47270-hd-wallpapers-u4984-fr_2x.jpg" crc="3911430408" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="luxury-yacht-near-murphys-restaurant2.jpg" crc="3853411349" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="luxury-yacht-near-murphys-restaurant_2x.jpg" crc="4203163649" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2824_cc.png" crc="379710681" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2824_cc_2x.png" crc="335491338" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2824_cc11.png" crc="4143875573" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2824_cc11_2x.png" crc="4120558940" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_19291_cc.png" crc="3963242631" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_19291_cc_2x.png" crc="3454570" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_19291_cc11.png" crc="4143873794" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_19291_cc11_2x.png" crc="171077764" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2174_cc.png" crc="3989045353" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2174_cc_2x.png" crc="453960021" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2174_cc11.png" crc="326022783" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2174_cc11_2x.png" crc="3953369628" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2775_cc.png" crc="4068829264" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2775_cc_2x.png" crc="468328785" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2775_cc11.png" crc="4227308921" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_2775_cc11_2x.png" crc="3960695982" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_1609.png" crc="256625553" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_1609_2x.png" crc="232539569" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_160911.png" crc="32471202" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="noun_160911_2x.png" crc="500712167" ref="lux1:lux2:lux3:small1:small2:small3:big1:big2:big3"/>
+    <file name="content1small.png" crc="462734765" seo="true" ref="small1:small2:small3"/>
+    <file name="content1bigg.png" crc="3808418953" seo="true" ref="big1:big2:big3"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_g-master.css" crc="4018049692" ref="phone>small-boats:phone>small1:phone>small2:phone>smallpage2:phone>small3"/>
+      <file name="master_a-master.css" crc="3928463979" ref="phone>contact:phone>about:phone>destinations:phone>services:phone>index:phone>rent-now"/>
+      <file name="master_b-master.css" crc="4273389621" ref="phone>luxnexpage2:phone>lux2:phone>lux3:phone>luxury-yachts:phone>lux1:phone>luxpage3"/>
+      <file name="master_c-master.css" crc="78942386" ref="phone>bigpage3:phone>big-yachts:phone>big1:phone>big2:phone>big3:phone>bigpage2"/>
+      <file name="contact.css" crc="4205362731" ref="phone>contact"/>
+      <file name="luxnexpage2.css" crc="4025674954" ref="phone>luxnexpage2"/>
+      <file name="bigpage3.css" crc="3887578813" ref="phone>bigpage3"/>
+      <file name="big-yachts.css" crc="4152375558" ref="phone>big-yachts"/>
+      <file name="big1.css" crc="513480261" ref="phone>big1"/>
+      <file name="big2.css" crc="3795647639" ref="phone>big2"/>
+      <file name="about.css" crc="4263948154" ref="phone>about"/>
+      <file name="big3.css" crc="3794328644" ref="phone>big3"/>
+      <file name="lux2.css" crc="4050518654" ref="phone>lux2"/>
+      <file name="destinations.css" crc="517220291" ref="phone>destinations"/>
+      <file name="lux3.css" crc="3812658447" ref="phone>lux3"/>
+      <file name="services.css" crc="4106582559" ref="phone>services"/>
+      <file name="index.css" crc="3997972825" ref="phone>index"/>
+      <file name="small-boats.css" crc="4262803999" ref="phone>small-boats"/>
+      <file name="rent-now.css" crc="444027070" ref="phone>rent-now"/>
+      <file name="small1.css" crc="224539522" ref="phone>small1"/>
+      <file name="luxury-yachts.css" crc="4177991798" ref="phone>luxury-yachts"/>
+      <file name="small2.css" crc="329939640" ref="phone>small2"/>
+      <file name="lux1.css" crc="138979491" ref="phone>lux1"/>
+      <file name="smallpage2.css" crc="67788495" ref="phone>smallpage2"/>
+      <file name="small3.css" crc="25516327" ref="phone>small3"/>
+      <file name="luxpage3.css" crc="389141063" ref="phone>luxpage3"/>
+      <file name="bigpage2.css" crc="353381112" ref="phone>bigpage2"/>
+    </folder>
+    <file name="index.html" crc="4015022075" seo="true" mt="1436281722731" redirect="true"/>
+    <file name="rent-now.html" crc="528300002" seo="true" mt="1436272170516" redirect="true"/>
+    <file name="luxury-yachts.html" crc="307314975" seo="true" mt="1436281722875" redirect="true"/>
+    <file name="lux1.html" crc="257013028" seo="true" mt="1436281728477" redirect="true"/>
+    <file name="lux2.html" crc="4084431672" seo="true" mt="1436281728403" redirect="true"/>
+    <file name="lux3.html" crc="3998774552" seo="true" mt="1436281728353" redirect="true"/>
+    <file name="small-boats.html" crc="3823787595" seo="true" mt="1436280385201" redirect="true"/>
+    <file name="small1.html" crc="111317342" seo="true" mt="1436281728298" redirect="true"/>
+    <file name="small2.html" crc="402319287" seo="true" mt="1436281728486" redirect="true"/>
+    <file name="small3.html" crc="3964463503" seo="true" mt="1436281728363" redirect="true"/>
+    <file name="big-yachts.html" crc="403124413" seo="true" mt="1436280481189" redirect="true"/>
+    <file name="big1.html" crc="319465682" seo="true" mt="1436281728382" redirect="true"/>
+    <file name="big2.html" crc="524533234" seo="true" mt="1436281728422" redirect="true"/>
+    <file name="big3.html" crc="4071073783" seo="true" mt="1436281728341" redirect="true"/>
+    <file name="about.html" crc="4027949853" seo="true" mt="1436281620070" redirect="true"/>
+    <file name="destinations.html" crc="3901282983" seo="true" mt="1436273302054" redirect="true"/>
+    <file name="services.html" crc="3775889309" seo="true" mt="1436273223385" redirect="true"/>
+    <file name="contact.html" crc="443017693" seo="true" mt="1436272349206" redirect="true"/>
+    <file name="luxnexpage2.html" crc="4007281292" seo="true" mt="1436280467210" redirect="true"/>
+    <file name="luxpage3.html" crc="142327384" seo="true" mt="1436280467210" redirect="true"/>
+    <file name="smallpage2.html" crc="192692287" seo="true" mt="1436280385201" redirect="true"/>
+    <file name="bigpage2.html" crc="485355533" seo="true" mt="1436280481189" redirect="true"/>
+    <file name="bigpage3.html" crc="3799009115" seo="true" mt="1436280481189" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="216233619" seo="true" mt="1436281722857" redirect="true"/>
+  <file name="rent-now.html" crc="391184562" seo="true" mt="1436281567121" redirect="true"/>
+  <file name="luxury-yachts.html" crc="3860820268" seo="true" mt="1436281722756" redirect="true"/>
+  <file name="small-boats.html" crc="4129611418" seo="true" mt="1436280686969" redirect="true"/>
+  <file name="big-yachts.html" crc="495820545" seo="true" mt="1436280714563" redirect="true"/>
+  <file name="about.html" crc="3877408881" seo="true" mt="1436281602061" redirect="true"/>
+  <file name="destinations.html" crc="380270808" seo="true" mt="1436281567121" redirect="true"/>
+  <file name="services.html" crc="4126379508" seo="true" mt="1436281722765" redirect="true"/>
+  <file name="contact.html" crc="98176630" seo="true" mt="1436281567121" redirect="true"/>
+  <file name="lux1.html" crc="301070853" seo="true" mt="1436281728413" redirect="true"/>
+  <file name="lux2.html" crc="57414151" seo="true" mt="1436281728431" redirect="true"/>
+  <file name="lux3.html" crc="4215086946" seo="true" mt="1436281728333" redirect="true"/>
+  <file name="small1.html" crc="4189761282" seo="true" mt="1436281728451" redirect="true"/>
+  <file name="small2.html" crc="293824061" seo="true" mt="1436281728468" redirect="true"/>
+  <file name="small3.html" crc="526748699" seo="true" mt="1436281728441" redirect="true"/>
+  <file name="big1.html" crc="3924438642" seo="true" mt="1436281728290" redirect="true"/>
+  <file name="big2.html" crc="4191165114" seo="true" mt="1436281728394" redirect="true"/>
+  <file name="big3.html" crc="2136640" seo="true" mt="1436281728495" redirect="true"/>
+</manifest>
